@@ -7,3 +7,5 @@ git restore<file name>
 git add <file name>
 
 git commit -m "<message>"
+
+this is new changes
